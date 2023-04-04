@@ -1,0 +1,34 @@
+{
+  "name": "real-estate-website",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.17",
+    "@chakra-ui/image": "^2.0.15",
+    "@chakra-ui/react": "^2.2.9",
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "bootstrap": "^5.2.3",
+    "firebase": "^9.17.1",
+    "framer-motion": "^6.5.1",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.2",
+    "react-countdown": "^2.3.5",
+    "react-dom": "^18.2.0",
+    "react-google-button": "^0.7.2",
+    "react-icons": "^4.4.0",
+    "react-router-dom": "^6.3.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.0.1",
+    "vite": "^3.0.7"
+  }
+}
